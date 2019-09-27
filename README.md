@@ -4,7 +4,9 @@
 #### CPAR Dataset consists of Devanagri(Hindi) Characters and Digits. This Dataset was collected by Mr. Rajiv Kumar.
 
 ## Quick Tour
-
+CPAR contains 48 Characters and 9 Digits.
+![alt rating_to_insight](https://github.com/gaganmanku96/cpar/assets/images/char.png)
+![alt rating_to_insight](https://github.com/gaganmanku96/cpar/assets/images/digit.png)
 
 ## Installation
 #### Using PIP via PyPI
