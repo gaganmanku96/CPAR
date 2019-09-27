@@ -1,7 +1,7 @@
 # CPAR Dataset
 
 ## Introduction
-#### CPAR Dataset consists of Devanagri(Hindi) Characters and Digits. This Dataset was collected by Mr. Rajiv Kumar.
+##### CPAR Dataset consists of Devanagri(Hindi) Characters and Digits. This Dataset was collected by Mr. Rajiv Kumar. It took almost 3 years to collect this dataset. He collected data from writers belonging to diverse population strata. They belonged to different age groups (from 6 to 77 years),  genders, educational backgrounds (from 3rd grade to postgraduate levels), professions (software engineers, professors, students, accountants, housewives and retired persons), regions (Indian states: Bihar, Uttar Pradesh, Haryana, Punjab, National Capital Region (NCR), Madhya Pradesh, Karnataka, Kerala, Rajasthan, and countries: Nigeria, China and Nepal).
 
 ## Quick Tour
 CPAR contains 48 Characters and 9 Digits.
