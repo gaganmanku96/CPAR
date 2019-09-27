@@ -6,8 +6,8 @@
 ## Quick Tour
 CPAR contains 48 Characters and 9 Digits.
 
-![alt rating_to_insight](https://github.com/gaganmanku96/cpar/assets/images/char.png)
-![alt rating_to_insight](https://github.com/gaganmanku96/cpar/assets/images/digit.png)
+![alt rating_to_insight](https://github.com/gaganmanku96/CPAR/blob/master/assets/images/char.png)
+![alt rating_to_insight](https://github.com/gaganmanku96/CPAR/blob/master/assets/images/digit.png)
 
 ## Installation
 #### Using PIP via PyPI
